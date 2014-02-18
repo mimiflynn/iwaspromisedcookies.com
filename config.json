@@ -1,9 +1,9 @@
 {
   "locals": {
     "url": "http://localhost:8080",
-    "name": "The Wintersmith's blog",
-    "owner": "Someone",
-    "description": "Ramblings of an immor(t)al demigod"
+    "name": "I was promised cookies",
+    "owner": "mimiflynn",
+    "description": "Thoughts regarding the internet"
   },
   "plugins": [
     "./plugins/paginator.coffee"
