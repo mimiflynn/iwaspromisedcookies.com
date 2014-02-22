@@ -1,4 +1,14 @@
 
+/*Animation Prefs*/
+@-webkit-keyframes borderChange {
+      0% {border-color: #3B5667;}
+     25% {border-color: #ff0000;}
+     50% {border-color: #1e9ec2;}
+     75% {border-color: #ff8000;}
+     100% {border-color: #007733;}
+}
+
+
 h1, h2, h3, h4, h5, h6, p, body, a, img, ul, ol, blockquote, pre {
   margin: 0; padding: 0; border: 0;
 }
@@ -9,6 +19,9 @@ body {
   line-height: 1.52;
   background-color: #f8f8f8;
   text-rendering: optimizeLegibility;
+  -webkit-animation: borderChange 80s infinite alternate;
+  border-top: 6px solid #45CEEF;
+
 }
 
 .content-wrap {
@@ -114,6 +127,7 @@ hr {
   font-style: italic;
   text-align: center;
   margin-top: -0.3em;
+  color: #999;
 }
 
 body.article-detail > header h1 {
