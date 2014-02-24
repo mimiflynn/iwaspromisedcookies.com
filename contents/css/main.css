@@ -206,13 +206,13 @@ footer .copy, footer .copy a {
   text-decoration: none;
 }
 
-.article header .date {
+.date {
   text-align: center;
   font-size: 0.8em;
   margin-top: -0.7em;
 }
 
-.article header .date span {
+.date span {
   background-color: #f8f8f8;
   padding: 0 0.7em;
 }
