@@ -1,11 +1,13 @@
 
-/*Animation Prefs*/
+/*
+    Animation of the top border of the page. Used on the body tag.
+*/
 @-webkit-keyframes borderChange {
-      0% {border-color: #3B5667;}
-     25% {border-color: #ff0000;}
-     50% {border-color: #1e9ec2;}
-     75% {border-color: #ff8000;}
-     100% {border-color: #007733;}
+  0% {border-color: #3B5667;}
+  25% {border-color: #ff0000;}
+  50% {border-color: #1e9ec2;}
+  75% {border-color: #ff8000;}
+  100% {border-color: #007733;}
 }
 
 
@@ -19,7 +21,8 @@ body {
   line-height: 1.52;
   background-color: #f8f8f8;
   text-rendering: optimizeLegibility;
-  -webkit-animation: borderChange 80s infinite alternate;
+  /* commented out the animation because it seems to kill my laptop battery */
+/*  -webkit-animation: borderChange 80s infinite alternate; */
   border-top: 6px solid #45CEEF;
 
 }
