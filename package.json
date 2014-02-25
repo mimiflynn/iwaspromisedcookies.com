@@ -2,10 +2,12 @@
   "name": "iwaspromisedcookies",
   "description": "thoughts regarding the internet",
   "author": "mimiflynn",
+  "version": "0.1.2",
+  "private": true,
   "dependencies": {
-    "moment": "2.3.x",
-    "underscore": "1.4.x",
-    "typogr": "0.5.x",
+    "moment": "2.3.1",
+    "underscore": "1.4.4",
+    "typogr": "0.5.2",
     "wintersmith": "2.0.10",
     "wintersmith-data-json": "0.0.5"
   },
