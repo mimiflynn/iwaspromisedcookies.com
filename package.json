@@ -3,6 +3,9 @@
     "moment": "2.3.x",
     "underscore": "1.4.x",
     "typogr": "0.5.x"
+    "moment": "2.3.1",
+    "wintersmith": "2.0.10",
+    "wintersmith-data-json": "0.0.5"
   },
   "repository": "none"
 }

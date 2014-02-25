@@ -59,6 +59,10 @@ A great way to review and further learn more about Javascript fundamentals is th
 
 ## References
 
+[Call, Apply, and Bind](http://dailyjs.com/2012/06/25/this-binding/)
+
+[Learning Advanced Javascript](http://ejohn.org/apps/learn/)
+
 [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 [Currying in Javascript](https://medium.com/p/ce6da2d324fe)
