@@ -15,14 +15,14 @@ As we all know, there has been a huge change in how JavaScript is being used on 
 
 Learn how to use `.call` and `.apply` and `.bind` and why they are necessary.
 
-```
+```javascript
 function log(){
 	var args = Array.prototype.slice.call(arguments);
 	console.log.apply(console, args);
 }
 ```
 
-```
+```javascript
 var stuff = {
 	line : 'say these things',
 	say :  function(name) {

@@ -13,6 +13,7 @@ html(lang='en')
       link(rel='alternate', href=locals.url+'/feed.xml', type='application/rss+xml', title=locals.description)
       link(rel='stylesheet', href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic|Anonymous+Pro:400,700,400italic,700italic|Merriweather:400,700,300')
       link(rel='stylesheet', href='/css/main.css')
+      link(rel='stylesheet', href='/css/prism.css')
   body(class=bodyclass)
     header.header
       div.content-wrap
@@ -35,3 +36,4 @@ html(lang='en')
               a(href='https://github.com/jnordberg/wintersmith') Wintersmith
               //- please leave the "powered by" if you use the design
     script(type='application/javaScript', href=locals.url+'/js/ga.js')
+    script(type='application/javaScript', href=locals.url+'/js/prism.js')
