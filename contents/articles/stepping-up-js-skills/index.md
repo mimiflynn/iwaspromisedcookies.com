@@ -5,6 +5,8 @@ date: 2014-02-17
 template: article.jade
 ---
 
+Lets say you're a front-end developer that has historically worked on marketing sites. The most complicated 'app' aspect of this marketing site is the search and contact forms and those were mostly managed by a CMS. You want a new job but all the new jobs are looking for front-end developers that build applications with complex interactions and huge Javascript codebases. The couple of interviews you've recently had were bad and a little embarrassing, but you feel confident in your knowledge of Javascript.
+
 Recently, I've been interviewing candidates for front end web development positions and have been noticing that there are two kinds of Javascript developers: one that creates movement and fancy UI's for marketing sites and one that creates complex Rich Internet Applications (RIA).
 
 <span class="more"></span>
