@@ -5,7 +5,7 @@ date: 2014-02-27
 template: article.jade
 ---
 
-Lets say you're a front-end developer that has historically worked on marketing sites. You can make dropdown menus and modal pop-ups and animate hover states and other fun things. Plugins, jQuery is your best friend and the plugin selection really helps you with most of the tasks you are given. You've never written a jQuery plugin and do not fully understand what they are and how they work within the terms of Javascript.
+Lets say you're a front-end developer that has historically worked on marketing sites. You can make dropdown menus, modal pop-ups, animate hover states, create slideshows, etc. jQuery, with its large base of plugins, is your best friend. You've never written a jQuery plugin and do not fully understand what they are and how they work within the terms of Javascript.
 
 <span class="more"></span>
 
@@ -75,7 +75,7 @@ A great way to review and further learn more about Javascript fundamentals is th
 
 [Code Combat](http://codecombat.com/)
 
-## Don't be afraid of the command line:
+## Don't be afraid of the command line
 
 The was javascript frameworks are being distributed and developed these days requires that you not be afraid to use the command line.
 
