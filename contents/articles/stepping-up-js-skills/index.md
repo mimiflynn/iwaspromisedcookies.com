@@ -15,7 +15,7 @@ What do you need to do to step up your JS skills?
 
 ## Read
 
-Its hard to know where to start because your don't know what you don't know. A good place to start is at the beginning. Read about Javascript; its a great way to fill in the gaps. There are plently of free references online that can help you along.
+Its hard to know where to start because you don't know what you don't know. Simply reading about Javascript is a great way to fill in the gaps. There are plently of free references online:
 
 [Javascript Allonge](https://leanpub.com/javascript-allonge/read)
 
@@ -65,19 +65,21 @@ var groupMembers= [{
 findWhere(groupMembers, 'name', 'location', 'Atlanta, Georgia');
 ```
 
-`.foreach` is something you've not seen before, so, [you go ahead and look it up](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach).
+Lets say `.foreach` is something you've not seen before, [go ahead and look it up](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach).
 
-Then, lets say you want to play with `.forEach` a little bit to get a better unstanding of it. Open up the console in your browser, and copy and paste the above function.
+Then, lets say you want to play with `.forEach` a little bit to get a better unstanding of it. Open up the console in your browser, and copy and paste the above function and dream up interesting ways in which you would need to use it.
 
 ## Codewars and other JS code fun
 
 A great way to review and further learn more about Javascript fundamentals is through [Codewars](http://codewars.com). Sign up and do all the 'kata' that you can. If you Google something and use it to get through a 'kata' be sure you understand why it works. Don't be lazy about this understanding. Its really going to help once you get to writing code for real projects with real teams.
 
-[Code Combat](http://codecombat.com/)
+If you are a complete beginner, check out [Code Combat](http://codecombat.com/). It makes a game of learning to code.
 
 ## Don't be afraid of the command line
 
-The was javascript frameworks are being distributed and developed these days requires that you not be afraid to use the command line.
+A lot of the javascript frameworks that are being distributed and developed these days requires that you not be afraid of the command line, well, or at the least can deal with your fear enough to use it.
+
+[NodeJS](https://nodejs.org/) is javascript that runs in the command line and can even be used as a server backend. Install it and write command line scripts that do simple every day things like searching and replacing words in a text file so you can better understand how it works.
 
 ## 'I keep getting this question about closures'
 
