@@ -31,7 +31,7 @@ Luckily, with an old MBA and its limited hardware configurations, you don't much
 
 But, really, its all supposed to be 'for fun'.
 
-Ubuntu has a whole section of its [https://wiki.ubuntu.com/MactelSupportTeam/CommunityHelpPages](wiki to cover 'Mactel' things) so check it out before going much farther.
+Ubuntu has a whole wiki section [to cover Mactel things](https://wiki.ubuntu.com/MactelSupportTeam/CommunityHelpPages) so check it out before going much farther.
 
 Anyway, make the USB boot drive and turn off the laptop. Restart it while holding down the `option` key and it should show you a fancy screen with your Macintosh HD as two drives and a bootable USB drive. Pick the USB drive... unless you want to got back to OS X, which you don't because you are trying to install Linux.
 
@@ -57,13 +57,15 @@ Go to the 'Whisker Menu' (the little mouse at the top left side of the screen), 
 
 ![Keyboard settings](keyboard.png)
 
-The command key is the 'Super' key
-
-option+tab - switch open apps
-
-super-r - open
-
 All keyboard shortcuts are customizable via the Keyboard section of Settings (in the Whisker menu like above, OR just hit Super+r and type in 'keyboard'). Hit '+add' to make a new shortcut, or 'edit' to change an existing one, or 'delete' if you hate one. When addng, it will prompt you to type in the command you want it to run. (What is this?! What does it mean?! How are you supposed to know what commands are available?!) Enter the command you want and hit 'OK' and it will ask you to hit the keyboard shortcut combo you want to use to run that command. Easy peasy.
+
+Its important to node that the command / apple key is the 'Super' key.
+
+`option+tab` - switch open apps
+
+`super+r` - much like Spotlight
+
+`ctrl+tab` - switch between open tabs
 
 ### XFCE theme manager
 
