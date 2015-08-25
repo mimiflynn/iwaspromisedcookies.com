@@ -57,8 +57,6 @@ dropbox
 
 chrome
 
-
-
 synaptic
 
 ## Power optimizations
@@ -77,11 +75,11 @@ Go ahead and run `powertop`:
 sudo powertop
 ```
 
-and tab through to 'Tuneables'
+and tab through to 'Tunables'
 
 ## Development
 
-To be truely hardcode, and really to do any work on Github repos you will need to [authenticate Github via SSH](https://help.github.com/articles/generating-ssh-keys/). You'll need to install SSH first, though, with `sudo apt-get install ssh`.
+To be truely hardcore, and really to do any work on Github repos you will need to [authenticate Github via SSH](https://help.github.com/articles/generating-ssh-keys/). You'll need to install SSH first, though, with `sudo apt-get install ssh`.
 
 sublime text
 

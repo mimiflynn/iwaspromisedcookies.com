@@ -7,10 +7,3 @@ This blog uses a slightly modified version of the default [wintersmith](https://
 http://prismjs.com/index.html
 
 Added `.css` and `.js` files to the `layout.jade` template. Changed `pre` and `code` background color to `#272822`.
-
-## KSS for a living styleguide
-
-To update the styleguide run:
-
-`kss-node "contents/css/" --template "styleguide-template"`
-
