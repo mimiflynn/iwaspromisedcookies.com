@@ -31,13 +31,15 @@ Luckily, with an old MBA and its limited hardware configurations, you don't much
 
 But, really, its all supposed to be 'for fun'.
 
+Ubuntu has a whole section of its [https://wiki.ubuntu.com/MactelSupportTeam/CommunityHelpPages](wiki to cover 'Mactel' things) so check it out before going much farther.
+
 Anyway, make the USB boot drive and turn off the laptop. Restart it while holding down the `option` key and it should show you a fancy screen with your Macintosh HD as two drives and a bootable USB drive. Pick the USB drive... unless you want to got back to OS X, which you don't because you are trying to install Linux.
 
 You *should* get a screen that asks if you want to install Linux or try it out. Do what you want, but when you decide to install, select install and follow all the directions. At some point very soon to the beginning, it will ask what you want to do with all your partitions. Pick the partition you want to install the OS onto and move on.
 
-### Keep your home directory in a separate partition
+### Keep your /home directory in a separate partition
 
-This is where that partition you made earlier comes in handy. Keeping your home directory in a separate partition means you can re-install the OS if you happen to break anything and not have to worry about your personal configuration files and other such important things. It'll all be there, waiting for that bleeding edge version of Xubuntu to greet it upon login.
+This is where that partition you made earlier comes in handy. Keeping your /home directory in a separate partition means you can re-install the OS if you happen to break anything and not have to worry about your personal configuration files and other such important things. It'll all be there, waiting for that bleeding edge version of Xubuntu to greet it upon login.
 
 [Follow these directions super carefully](https://help.ubuntu.com/community/Partitioning/Home/Moving)
 
@@ -51,15 +53,25 @@ But, as free software that anyone can work on, some brilliant dev somewhere was 
 
 Go to the 'Whisker Menu' (the little mouse at the top left side of the screen), click on 'Settings' to the bottom-ish right of the menu, and then select 'Mouse and Touchpad'. Look over the 'Buttons and Feedback' tab and tweak as you want, then select the 'Touchpad' tab and check 'Disable touchpad while typing'. Overtime, you might need to adjust the 'Duration' until it feels right to you.
 
-### Customize keyboard shortcuts
+### Keyboard shortcuts
 
+![Keyboard settings](keyboard.png)
 
+The command key is the 'Super' key
+
+option+tab - switch open apps
+
+super-r - open
+
+All keyboard shortcuts are customizable via the Keyboard section of Settings (in the Whisker menu like above, OR just hit Super+r and type in 'keyboard'). Hit '+add' to make a new shortcut, or 'edit' to change an existing one, or 'delete' if you hate one. When addng, it will prompt you to type in the command you want it to run. (What is this?! What does it mean?! How are you supposed to know what commands are available?!) Enter the command you want and hit 'OK' and it will ask you to hit the keyboard shortcut combo you want to use to run that command. Easy peasy.
 
 ### XFCE theme manager
 
+You can make Xubuntu look awesome, or horrible, its all up to you.
+
 http://www.webupd8.org/2013/06/xfce-theme-manager-single-gui-to-change.html
 
-## general apps
+## Applications
 
 Description of `.deb` files
 
@@ -91,16 +103,7 @@ and tab through to 'Tunables'
 
 To be truely hardcore, and really to do any work on Github repos you will need to [authenticate Github via SSH](https://help.github.com/articles/generating-ssh-keys/). You'll need to install SSH first, though, with `sudo apt-get install ssh`.
 
-sublime text
-
-## Keyboard shortcuts to note
-
-The command key is the 'Super' key
-
-option+tab - switch open apps
-
-super-r - open 
-
+sublime text 
 
 ## References
 
