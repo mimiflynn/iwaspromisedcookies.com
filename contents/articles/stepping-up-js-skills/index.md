@@ -15,7 +15,7 @@ What do you need to do to step up your JS skills?
 
 ## Read
 
-Its hard to know where to start because you don't know what you don't know. Simply reading about Javascript is a great way to fill in the gaps. There are plently of free references online:
+It's hard to know where to start because you don't know what you don't know. Simply reading about Javascript is a great way to fill in the gaps. There are plently of free references online:
 
 [Javascript Allonge](https://leanpub.com/javascript-allonge/read)
 
@@ -71,7 +71,7 @@ Then, lets say you want to play with `.forEach` a little bit to get a better uns
 
 ## Codewars and other JS code fun
 
-A great way to review and further learn more about Javascript fundamentals is through [Codewars](http://codewars.com). Sign up and do all the 'kata' that you can. If you Google something and use it to get through a 'kata' be sure you understand why it works. Don't be lazy about this understanding. Its really going to help once you get to writing code for real projects with real teams.
+A great way to review and further learn more about Javascript fundamentals is through [Codewars](http://codewars.com). Sign up and do all the 'kata' that you can. If you Google something and use it to get through a 'kata' be sure you understand why it works. Don't be lazy about this understanding. It's really going to help once you get to writing code for real projects with real teams.
 
 If you are a complete beginner, check out [Code Combat](http://codecombat.com/). It makes a game of learning to code.
 
