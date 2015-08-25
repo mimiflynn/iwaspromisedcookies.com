@@ -37,13 +37,23 @@ You *should* get a screen that asks if you want to install Linux or try it out. 
 
 ### Keep your home directory in a separate partition
 
-This is where that partition you made earlier comes in handy.
+This is where that partition you made earlier comes in handy. Keeping your home directory in a separate partition means you can re-install the OS if you happen to break anything and not have to worry about your personal configuration files and other such important things. It'll all be there, waiting for that bleeding edge version of Xubuntu to greet it upon login.
 
-https://help.ubuntu.com/community/Partitioning/Home/Moving
+[Follow these directions super carefully](https://help.ubuntu.com/community/Partitioning/Home/Moving)
 
 ### Disable trackpad when using keyboard
 
+When using OS X, you've never had to worry about losing cursor focus due to a slight brush of your palm on the trackpad. That's quality. Xubuntu is free software that allows a user to configure it all they want, which means you have to think about things like this.
+
+But, as free software that anyone can work on, some brilliant dev somewhere was plagued with this trackpad typing focus bug and created a fix.
+
+![Touchpad settings](touchpad.png)
+
+Go to the 'Whisker Menu' (the little mouse at the top left side of the screen), click on 'Settings' to the bottom-ish right of the menu, and then select 'Mouse and Touchpad'. Look over the 'Buttons and Feedback' tab and tweak as you want, then select the 'Touchpad' tab and check 'Disable touchpad while typing'. Overtime, you might need to adjust the 'Duration' until it feels right to you.
+
 ### Customize keyboard shortcuts
+
+
 
 ### XFCE theme manager
 

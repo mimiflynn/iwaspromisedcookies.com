@@ -152,6 +152,10 @@ body.article-detail > header {
     margin-bottom: 3em;
 }
 
+.article-detail h3 {
+    text-align: left;
+}
+
 /* page footer */
 
 footer {
