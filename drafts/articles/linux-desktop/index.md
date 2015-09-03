@@ -73,6 +73,12 @@ Its important to node that the command / apple key is the 'Super' key.
 
 `ctrl+tab` - switch between open tabs
 
+### CLI commands to note
+
+Open current working directory `thunar .`.
+
+
+
 ### XFCE theme manager
 
 You can make Xubuntu look awesome, or horrible, its all up to you.
@@ -85,7 +91,7 @@ Description of `.deb` files
 
 dropbox
 
-chrome
+chrome - kind of buggy. currently running as `chrome-stable --disable-gpu`
 
 synaptic
 
