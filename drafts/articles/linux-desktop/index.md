@@ -93,8 +93,6 @@ dropbox
 
 chrome - kind of buggy. currently running as `chrome-stable --disable-gpu`
 
-synaptic
-
 ## Power optimizations
 
 ![Powertop](images/powertop-tuneables.png)
