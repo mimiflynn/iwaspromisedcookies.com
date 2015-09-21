@@ -67,19 +67,19 @@ findWhere(groupMembers, 'name', 'location', 'Atlanta, Georgia');
 
 Lets say `.foreach` is something you've not seen before, [go ahead and look it up](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach).
 
-Then, lets say you want to play with `.forEach` a little bit to get a better unstanding of it. Open up the console in your browser, and copy and paste the above function and dream up interesting ways in which you would need to use it.
+Then, lets say you want to play with `.forEach` a little bit to get a better understanding of it. Open up the console in your browser, copy and paste the above function, and dream up interesting ways in which you would need to use it.
 
 ## Codewars and other JS code fun
 
-A great way to review and further learn more about Javascript fundamentals is through [Codewars](http://codewars.com). Sign up and do all the 'kata' that you can. If you Google something and use it to get through a 'kata' be sure you understand why it works. Don't be lazy about this understanding. It's really going to help once you get to writing code for real projects with real teams.
+A great way to review and learn more about Javascript fundamentals is through [Codewars](http://codewars.com). Sign up and do all the 'kata' that you can. If you Google something and use it to get through a 'kata' be sure you understand why it works. Don't be lazy about this understanding. It's really going to help once you get to writing code for real projects with real teams.
 
 If you are a complete beginner, check out [Code Combat](http://codecombat.com/). It makes a game of learning to code.
 
 ## Don't be afraid of the command line
 
-A lot of the javascript frameworks that are being distributed and developed these days requires that you not be afraid of the command line, well, or at the least can deal with your fear enough to use it.
+A lot of the javascript frameworks that are being distributed and developed these days require that you not be afraid of the command line--or at the least can deal with your fear enough to use it.
 
-[NodeJS](https://nodejs.org/) is javascript that runs in the command line and can even be used as a server backend. Install it and write command line scripts that do simple every day things like searching and replacing words in a text file so you can better understand how it works.
+[NodeJS](https://nodejs.org/) is javascript that runs in the command line and can even be used as a server backend. Install it and write command line scripts that do simple every day things like searching and replacing words in a text file, so that you can better understand how it works.
 
 ## 'I keep getting this question about closures'
 
