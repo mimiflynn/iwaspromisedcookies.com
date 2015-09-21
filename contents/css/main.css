@@ -232,10 +232,6 @@ footer .copy, footer .copy a {
     padding: 0 0.7em;
 }
 
-.article.intro .content p {
-    display: inline;
-}
-
 .article.intro .content .more {
     text-decoration: underline;
     font-weight: 700;
