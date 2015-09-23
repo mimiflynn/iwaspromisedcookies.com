@@ -1,4 +1,4 @@
-# Blog
+# Blog about the internet
 
 This blog uses a slightly modified version of the default [wintersmith](https://github.com/jnordberg/wintersmith) template blog theme in the following ways:
 
@@ -8,9 +8,12 @@ http://prismjs.com/index.html
 
 Added `.css` and `.js` files to the `layout.jade` template. Changed `pre` and `code` background color to `#272822`.
 
-## KSS for a living styleguide
+# Contributing
 
-To update the styleguide run:
+Make a branch, make changes, then create a pull request. Magic!
 
-`kss-node "contents/css/" --template "styleguide-template"`
-
+```
+npm install -g wintersmith
+npm install
+wintersmith preview
+```
