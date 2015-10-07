@@ -75,23 +75,19 @@ Its important to node that the command / apple key is the 'Super' key.
 
 ### CLI commands to note
 
-Open current working directory `thunar .`.
+Open current working directory `thunar .` in the file manager GUI.
 
-
+Also, of course, `sudo apt-get install <something>`, but that will have to be a [Google search for you](http://lmgtfy.com/?q=ubuntu+apt-get+install).
 
 ### XFCE theme manager
 
-You can make Xubuntu look awesome, or horrible, its all up to you.
-
-http://www.webupd8.org/2013/06/xfce-theme-manager-single-gui-to-change.html
+You can make Xubuntu look awesome, or horrible, its all [up to you](http://www.webupd8.org/2013/06/xfce-theme-manager-single-gui-to-change.html).
 
 ## Applications
 
-Description of `.deb` files
+Sometimes, you'll want to download something familiar and useful that isn't included in the software center or apt-get. For example, lets say you want to install Dropbox and it tells you to install something called a `.deb`, go for it. Just download it and run it in the software center app.
 
-dropbox
-
-chrome - kind of buggy. currently running as `chrome-stable --disable-gpu`
+NOTE - chrome is available like this and is kind of buggy. I currently changed my 'Web Browser' shortcut to run `google-chrome --disable-gpu` in order to avoid weird GPU things.
 
 ## Power optimizations
 
@@ -109,10 +105,14 @@ Go ahead and run `powertop`:
 sudo powertop
 ```
 
-and tab through to 'Tunables'
+and tab through to 'Tunables' and hit `enter` when you find something that appears to need tuning.
 
 ## Development
 
 To be truely hardcore, and really to do any work on Github repos you will need to [authenticate Github via SSH](https://help.github.com/articles/generating-ssh-keys/). You'll need to install SSH first, though, with `sudo apt-get install ssh`.
 
-sublime text 
+Sublime Text 3 is available as a `.deb` and works exactly as it does everywhere.
+
+Jetbrains has its IDE's available as well, if you have a license for some of their goodness.
+
+Naturally, you could just Vim or Emacs like a pro with some tmux thrown in.
