@@ -1,9 +1,2 @@
+node_modules/
 .DS_Store
-build
-build/*
-node_modules
-node_modules/*
-.idea
-.idea/*
-.project
-.project/*

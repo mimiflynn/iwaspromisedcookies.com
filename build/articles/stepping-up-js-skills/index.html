@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+    <title>Stepping Up Your JS Skills - trailingWhitespace**____
+    </title>
+    <link rel="alternate" href="http://trailingwhitespace.com/feed.xml" type="application/rss+xml" title="Thoughts regarding the internet">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic|Anonymous+Pro:400,700,400italic,700italic|Merriweather:400,700,300">
+    <link rel="stylesheet" href="/css/prism.css">
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+  <body class="article-detail">
+    <header class="header">
+      <div class="content-wrap">
+        <h1>Stepping Up Your JS Skills</h1>
+        <p class="author">Written by <span class="author"><a href="mailto:mimi@mimiflynn.com">Mimi Flynn</a></span>
+        </p>
+        <p class="date"><span>27 February 2014</span></p>
+      </div>
+    </header>
+    <div id="content">
+      <div class="content-wrap">
+        <article class="article">
+          <section class="content"><p>Lets say you’re a front-end developer that has historically worked on marketing sites. You can make dropdown menus, modal pop-ups, animate hover states, create slideshows, etc. jQuery, with its large base of plugins, is your best friend. You’ve never written a jQuery plugin and do not fully understand what they are and how they work within the terms of&nbsp;Javascript.</p>
+<p><span class="more"></span></p>
+<p>The most complicated ‘app’ aspect of the marketing sites you’ve created are the search and contact forms and those were mostly managed by a <span class="caps">CMS</span>. You want a new job but all the new jobs are looking for front-end developers that build applications with complex interactions and huge Javascript codebases. The couple of interviews you’ve recently had were bad and a little embarrassing, but you feel confident in your knowledge of Javascript and your ability to learn&nbsp;more.</p>
+<p>What do you need to do to step up your <span class="caps">JS</span>&nbsp;skills?</p>
+<h2 id="read">Read</h2>
+<p>It’s hard to know where to start because you don’t know what you don’t know. Simply reading about Javascript is a great way to fill in the gaps. There are plently of free references&nbsp;online:</p>
+<p><a href="https://leanpub.com/javascript-allonge/read">Javascript&nbsp;Allonge</a></p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">Mozilla Developer Network <span class="caps">JS</span>&nbsp;Guide</a></p>
+<p>Reading can be taken to a whole other level, though. Don’t just read books about Javascript, but, as you get to understand <span class="caps">JS</span> more and more through technical book, start to look at the code of the tools you currently use and look up what you don’t understand in the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">Mozilla Developer <span class="caps">JS</span> reference site</a>.</p>
+<h2 id="use-the-console">Use the&nbsp;console</h2>
+<p>The Chrome console is an excellent space to test out your new <span class="caps">JS</span>&nbsp;skills.</p>
+<p>For example, lets say you see this&nbsp;code:</p>
+<pre><code class="lang-javascript"><span class="function"><span class="keyword">function</span> <span class="title">findWhere</span>(<span class="params">objArray, find, where, is</span>) </span>{
+
+    <span class="built_in">console</span>.log(<span class="string">'find '</span> + find + <span class="string">' where '</span> + where + <span class="string">' is '</span> + is);
+
+    <span class="keyword">var</span> asw = <span class="string">''</span>;
+
+    objArray.forEach(<span class="function"><span class="keyword">function</span> (<span class="params">element, index, array</span>) </span>{
+
+        <span class="keyword">if</span> (element[where] === is) {
+            <span class="built_in">console</span>.log(element[find]);
+            asw = element[find];
+        }
+
+    });
+
+    <span class="keyword">return</span> asw;
+}
+
+<span class="keyword">var</span> groupMembers= [{
+        name: <span class="string">'Jane Preston'</span>,
+        location: <span class="string">'Boise, Idaho'</span>
+    }, {
+        name: <span class="string">'Jonathan Maxwell'</span>,
+        location: <span class="string">'Manhattan, Kansas'</span>
+    },{
+        name: <span class="string">'Harper Ferry'</span>,
+        location: <span class="string">'Atlanta, Georgia'</span>
+    }];
+
+<span class="comment">// outputs name of person that is located in Atlanta, Georgia</span>
+findWhere(groupMembers, <span class="string">'name'</span>, <span class="string">'location'</span>, <span class="string">'Atlanta, Georgia'</span>);
+</code></pre>
+<p>Lets say <code>.foreach</code> is something you’ve not seen before, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach">go ahead and look it up</a>.</p>
+<p>Then, lets say you want to play with <code>.forEach</code> a little bit to get a better understanding of it. Open up the console in your browser, copy and paste the above function, and dream up interesting ways in which you would need to use&nbsp;it.</p>
+<h2 id="codewars-and-other-js-code-fun">Codewars and other <span class="caps">JS</span> code&nbsp;fun</h2>
+<p>A great way to review and learn more about Javascript fundamentals is through <a href="http://codewars.com">Codewars</a>. Sign up and do all the ‘kata’ that you can. If you Google something and use it to get through a ‘kata’ be sure you understand why it works. Don’t be lazy about this understanding. It’s really going to help once you get to writing code for real projects with real&nbsp;teams.</p>
+<p>If you are a complete beginner, check out <a href="http://codecombat.com/">Code Combat</a>. It makes a game of learning to&nbsp;code.</p>
+<h2 id="don-t-be-afraid-of-the-command-line">Don’t be afraid of the command&nbsp;line</h2>
+<p>A lot of the javascript frameworks that are being distributed and developed these days require that you not be afraid of the command line–or at the least can deal with your fear enough to use&nbsp;it.</p>
+<p><a href="https://nodejs.org/">NodeJS</a> is javascript that runs in the command line and can even be used as a server backend. Install it and write command line scripts that do simple every day things like searching and replacing words in a text file, so that you can better understand how it&nbsp;works.</p>
+<h2 id="-i-keep-getting-this-question-about-closures-">‘I keep getting this question about&nbsp;closures’</h2>
+<p>Scope is a big deal. If you don’t understand the scope of a variable in Javascript, you will run into all kinds of bugs that feel like&nbsp;phantoms.</p>
+<p>Learn how to use <code>.call</code> and <code>.apply</code> and <code>.bind</code> and why they are&nbsp;necessary.</p>
+<pre><code class="lang-javascript"><span class="function"><span class="keyword">function</span> <span class="title">log</span>(<span class="params"></span>)</span>{
+    <span class="keyword">var</span> args = <span class="built_in">Array</span>.prototype.slice.call(<span class="built_in">arguments</span>);
+    <span class="built_in">console</span>.log.apply(<span class="built_in">console</span>, args);
+}
+</code></pre>
+<pre><code class="lang-javascript"><span class="keyword">var</span> stuff = {
+    line : <span class="string">'say these things'</span>,
+    say :  <span class="function"><span class="keyword">function</span>(<span class="params">name</span>) </span>{
+        <span class="built_in">console</span>.log(name + <span class="string">' '</span> + <span class="keyword">this</span>.line);
+    }
+}
+
+<span class="keyword">var</span> things = {
+    line: <span class="string">'other things'</span>
+}
+
+stuff.say.call(things, <span class="string">'mimi'</span>);
+
+<span class="keyword">var</span> other = stuff.say.bind(stuff);
+
+other(<span class="string">'someone needs to'</span>);
+</code></pre>
+<ul>
+<li><p>Learn about prototypical&nbsp;inheritance</p>
+</li>
+<li><p>Learn about variable scope (hoisting, <code>this</code>, <code>.call</code> and <code>.apply</code> and <code>.bind</code>)</p>
+</li>
+<li><p>Understand why the <span class="caps">JS</span> tools and frameworks you use work, what problem they were created to fix, and what alternatives are&nbsp;available.</p>
+</li>
+</ul>
+<h2 id="modular-javascript">Modular&nbsp;Javascript</h2>
+<p>Modern Javascript requires a lot of code. In order to organize and maintain that code, functionality can be organized into modules that can be easily&nbsp;reused.</p>
+<p><a href="http://addyosmani.com/writing-modular-js/">Writing Modular Javascript with <span class="caps">AMD</span>, CommonJS and ES&nbsp;Harmony</a></p>
+<h2 id="references">References</h2>
+<p><a href="http://dailyjs.com/2012/06/25/this-binding/">Call, Apply, and&nbsp;Bind</a></p>
+<p><a href="http://ejohn.org/apps/learn/">Learning Advanced&nbsp;Javascript</a></p>
+<p><a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/">Javascript Design&nbsp;Patterns</a></p>
+<p><a href="https://medium.com/p/ce6da2d324fe">Currying in&nbsp;Javascript</a></p>
+</section>
+        </article>
+      </div>
+    </div>
+    <footer>
+      <div class="content-wrap">
+        <div class="nav"><a href="http://trailingwhitespace.com">« trailingWhitespace**____</a></div>
+        <section class="about"><p>My name is Mimi Flynn and I’ve been working with the web for 15 years. These are my thoughts regarding the internet.</p>
+<p>Currently located in New York, NY but tend to spend time in Austin, TX and Denver, CO when I find the chance.</p>
+<p>I enjoy rock climbing, cycling, and paddle boarding. Recently been getting more and more interested in hammocks and the art of the hang.</p>
+<p>If you want to learn more about me, check out my <a href="http://mimiflynn.com">portfolio</a>, or my <a href="http://wonder-wander.com">travel blog</a> and feel free to follow me on <a href="http://twitter.com/mimiflynn">twitter</a>.</p>
+
+        </section>
+        <section class="copy">
+          <p>&copy; 2016 mimiflynn &mdash; powered by&nbsp;<a href="https://github.com/jnordberg/wintersmith">Wintersmith</a>
+          </p>
+        </section>
+      </div>
+    </footer>
+    <script type="application/javascript" src="http://trailingwhitespace.com/js/ga.js"></script>
+    <script type="application/javascript" src="http://trailingwhitespace.com/js/prism.js"></script>
+  </body>
+</html>
