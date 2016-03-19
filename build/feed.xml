@@ -5,16 +5,16 @@
     <atom:link href="http://iwaspromisedcookies.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://iwaspromisedcookies.com</link>
     <description>Thoughts regarding the internet</description>
-    <pubDate>Sat, 22  Aug 2015 20:00:00 -0400</pubDate>
+    <pubDate>Sun, 23  Aug 2015 00:00:00 +0000</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
       <title>Xubuntu on MacBook Air</title>
       <link>http://iwaspromisedcookies.com/articles/linux-desktop/</link>
-      <pubDate>Sat, 22  Aug 2015 20:00:00 -0400</pubDate>
+      <pubDate>Sun, 23  Aug 2015 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">http://iwaspromisedcookies.com/articles/linux-desktop/</guid>
       <author></author>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/linux-desktop/images/itsalive.png&quot; alt=&quot;Xubuntu&quot;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&quot;http://iwaspromisedcookies.com/articles/linux-desktop/images/itsalive.png&quot; alt=&quot;Xubuntu&quot;&gt;&lt;/p&gt;
 &lt;p&gt;I’ve decided to ‘take the plunge’ and use my old trusty MacBook Air as a single boot Linux box. I got a shiny new MBA, so I figured it could be fun to go ahead and make a ‘beater’ machine out of my old one so I could toss in my bag and skate around town without worrying about ruining my sweet new laptop.&lt;/p&gt;
 &lt;p&gt;This is an overview of the things I did to get Xubuntu up and running in a workable fashion on my old MacBook Air (3,1).&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -39,10 +39,10 @@
 &lt;h3 id=&quot;disable-trackpad-when-using-keyboard&quot;&gt;Disable trackpad when using keyboard&lt;/h3&gt;
 &lt;p&gt;When using OS X, you’ve never had to worry about losing cursor focus due to a slight brush of your palm on the trackpad. That’s quality. Xubuntu is free software that allows a user to configure it all they want, which means you have to think about things like this.&lt;/p&gt;
 &lt;p&gt;But, as free software that anyone can work on, some brilliant dev somewhere was plagued with this trackpad typing focus bug and created a fix.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/articles/linux-desktop/images/touchpad.png&quot; alt=&quot;Touchpad settings&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://iwaspromisedcookies.com/articles/linux-desktop/images/touchpad.png&quot; alt=&quot;Touchpad settings&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Go to the ‘Whisker Menu’ (the little mouse at the top left side of the screen), click on ‘Settings’ to the bottom-ish right of the menu, and then select ‘Mouse and Touchpad’. Look over the ‘Buttons and Feedback’ tab and tweak as you want, then select the ‘Touchpad’ tab and check ‘Disable touchpad while typing’. Overtime, you might need to adjust the ‘Duration’ until it feels right to you.&lt;/p&gt;
 &lt;h3 id=&quot;keyboard-shortcuts&quot;&gt;Keyboard shortcuts&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/articles/linux-desktop/images/keyboard.png&quot; alt=&quot;Keyboard settings&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://iwaspromisedcookies.com/articles/linux-desktop/images/keyboard.png&quot; alt=&quot;Keyboard settings&quot;&gt;&lt;/p&gt;
 &lt;p&gt;All keyboard shortcuts are customizable via the Keyboard section of Settings (in the Whisker menu like above, OR just hit Super+r and type in ‘keyboard’). Hit ‘+add’ to make a new shortcut, or ‘edit’ to change an existing one, or ‘delete’ if you hate one. When addng, it will prompt you to type in the command you want it to run. (What is this?! What does it mean?! How are you supposed to know what commands are available?!) Enter the command you want and hit ‘OK’ and it will ask you to hit the keyboard shortcut combo you want to use to run that command. Easy peasy.&lt;/p&gt;
 &lt;p&gt;Its important to node that the command / apple key is the ‘Super’ key.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;option+tab&lt;/code&gt; - switch open apps&lt;/p&gt;
@@ -57,7 +57,7 @@
 &lt;p&gt;Sometimes, you’ll want to download something familiar and useful that isn’t included in the software center or apt-get. For example, lets say you want to install Dropbox and it tells you to install something called a &lt;code&gt;.deb&lt;/code&gt;, go for it. Just download it and run it in the software center app.&lt;/p&gt;
 &lt;p&gt;NOTE - chrome is available like this and is kind of buggy. I currently changed my ‘Web Browser’ shortcut to run &lt;code&gt;google-chrome --disable-gpu&lt;/code&gt; in order to avoid weird GPU things.&lt;/p&gt;
 &lt;h2 id=&quot;power-optimizations&quot;&gt;Power optimizations&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/articles/linux-desktop/images/powertop-tuneables.png&quot; alt=&quot;Powertop&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://iwaspromisedcookies.com/articles/linux-desktop/images/powertop-tuneables.png&quot; alt=&quot;Powertop&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Installing &lt;code&gt;powertop&lt;/code&gt; and &lt;code&gt;laptop-mode-tools&lt;/code&gt; has made a huge difference in battery life, to the point where the old battery in this machine is running for as long as it did with OS X: 2.5 hours. I know, thats barely any time, but if I needed 8 hours of battery life, I would just bring my other, less hacky MBA.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;sudo apt-get install powertop laptop-mode-tools
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Go ahead and run &lt;code&gt;powertop&lt;/code&gt;:&lt;/p&gt;
@@ -73,7 +73,7 @@
     <item>
       <title>Stepping Up Your JS Skills</title>
       <link>http://iwaspromisedcookies.com/articles/stepping-up-js-skills/</link>
-      <pubDate>Wed, 26 Feb 2014 19:00:00 -0500</pubDate>
+      <pubDate>Thu, 27 Feb 2014 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">http://iwaspromisedcookies.com/articles/stepping-up-js-skills/</guid>
       <author></author>
       <description>&lt;p&gt;Lets say you’re a front-end developer that has historically worked on marketing sites. You can make dropdown menus, modal pop-ups, animate hover states, create slideshows, etc. jQuery, with its large base of plugins, is your best friend. You’ve never written a jQuery plugin and do not fully understand what they are and how they work within the terms of Javascript.&lt;/p&gt;
@@ -88,16 +88,16 @@
 &lt;h2 id=&quot;use-the-console&quot;&gt;Use the console&lt;/h2&gt;
 &lt;p&gt;The Chrome console is an excellent space to test out your new JS skills.&lt;/p&gt;
 &lt;p&gt;For example, lets say you see this code:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-javascript&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;findWhere&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;objArray, find, where, is&lt;/span&gt;) &lt;/span&gt;{
+&lt;pre&gt;&lt;code class=&quot;lang-javascript&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;findWhere&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(objArray, find, where, is)&lt;/span&gt; {&lt;/span&gt;
 
-    &lt;span class=&quot;built_in&quot;&gt;console&lt;/span&gt;.log(&lt;span class=&quot;string&quot;&gt;'find '&lt;/span&gt; + find + &lt;span class=&quot;string&quot;&gt;' where '&lt;/span&gt; + where + &lt;span class=&quot;string&quot;&gt;' is '&lt;/span&gt; + is);
+    console.log(&lt;span class=&quot;string&quot;&gt;'find '&lt;/span&gt; + find + &lt;span class=&quot;string&quot;&gt;' where '&lt;/span&gt; + where + &lt;span class=&quot;string&quot;&gt;' is '&lt;/span&gt; + is);
 
     &lt;span class=&quot;keyword&quot;&gt;var&lt;/span&gt; asw = &lt;span class=&quot;string&quot;&gt;''&lt;/span&gt;;
 
-    objArray.forEach(&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; (&lt;span class=&quot;params&quot;&gt;element, index, array&lt;/span&gt;) &lt;/span&gt;{
+    objArray.forEach(&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;params&quot;&gt;(element, index, array)&lt;/span&gt; {&lt;/span&gt;
 
         &lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; (element[where] === is) {
-            &lt;span class=&quot;built_in&quot;&gt;console&lt;/span&gt;.log(element[find]);
+            console.log(element[find]);
             asw = element[find];
         }
 
@@ -123,23 +123,23 @@ findWhere(groupMembers, &lt;span class=&quot;string&quot;&gt;'name'&lt;/span&gt;
 &lt;p&gt;Lets say &lt;code&gt;.foreach&lt;/code&gt; is something you’ve not seen before, &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach&quot;&gt;go ahead and look it up&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Then, lets say you want to play with &lt;code&gt;.forEach&lt;/code&gt; a little bit to get a better understanding of it. Open up the console in your browser, copy and paste the above function, and dream up interesting ways in which you would need to use it.&lt;/p&gt;
 &lt;h2 id=&quot;codewars-and-other-js-code-fun&quot;&gt;Codewars and other JS code fun&lt;/h2&gt;
-&lt;p&gt;A great way to review and learn more about Javascript fundamentals is through &lt;a href=&quot;http://codewars.com&quot;&gt;Codewars&lt;/a&gt;. Sign up and do all the ‘kata’ that you can. If you Google something and use it to get through a ‘kata’ be sure you understand why it works. Don’t be lazy about this understanding. It’s really going to help once you get to writing code for real projects with real teams.&lt;/p&gt;
+&lt;p&gt;A great way to review and learn more about Javascript fundamentals is through &lt;a href=&quot;http://codewars.com/&quot;&gt;Codewars&lt;/a&gt;. Sign up and do all the ‘kata’ that you can. If you Google something and use it to get through a ‘kata’ be sure you understand why it works. Don’t be lazy about this understanding. It’s really going to help once you get to writing code for real projects with real teams.&lt;/p&gt;
 &lt;p&gt;If you are a complete beginner, check out &lt;a href=&quot;http://codecombat.com/&quot;&gt;Code Combat&lt;/a&gt;. It makes a game of learning to code.&lt;/p&gt;
 &lt;h2 id=&quot;don-t-be-afraid-of-the-command-line&quot;&gt;Don’t be afraid of the command line&lt;/h2&gt;
-&lt;p&gt;A lot of the javascript frameworks that are being distributed and developed these days require that you not be afraid of the command line–or at the least can deal with your fear enough to use it.&lt;/p&gt;
+&lt;p&gt;A lot of the javascript frameworks that are being distributed and developed these days require that you not be afraid of the command line—or at the least can deal with your fear enough to use it.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://nodejs.org/&quot;&gt;NodeJS&lt;/a&gt; is javascript that runs in the command line and can even be used as a server backend. Install it and write command line scripts that do simple every day things like searching and replacing words in a text file, so that you can better understand how it works.&lt;/p&gt;
 &lt;h2 id=&quot;-i-keep-getting-this-question-about-closures-&quot;&gt;‘I keep getting this question about closures’&lt;/h2&gt;
 &lt;p&gt;Scope is a big deal. If you don’t understand the scope of a variable in Javascript, you will run into all kinds of bugs that feel like phantoms.&lt;/p&gt;
 &lt;p&gt;Learn how to use &lt;code&gt;.call&lt;/code&gt; and &lt;code&gt;.apply&lt;/code&gt; and &lt;code&gt;.bind&lt;/code&gt; and why they are necessary.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-javascript&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;log&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;&lt;/span&gt;)&lt;/span&gt;{
+&lt;pre&gt;&lt;code class=&quot;lang-javascript&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt;{&lt;/span&gt;
     &lt;span class=&quot;keyword&quot;&gt;var&lt;/span&gt; args = &lt;span class=&quot;built_in&quot;&gt;Array&lt;/span&gt;.prototype.slice.call(&lt;span class=&quot;built_in&quot;&gt;arguments&lt;/span&gt;);
-    &lt;span class=&quot;built_in&quot;&gt;console&lt;/span&gt;.log.apply(&lt;span class=&quot;built_in&quot;&gt;console&lt;/span&gt;, args);
+    console.log.apply(console, args);
 }
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code class=&quot;lang-javascript&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;var&lt;/span&gt; stuff = {
     line : &lt;span class=&quot;string&quot;&gt;'say these things'&lt;/span&gt;,
-    say :  &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;name&lt;/span&gt;) &lt;/span&gt;{
-        &lt;span class=&quot;built_in&quot;&gt;console&lt;/span&gt;.log(name + &lt;span class=&quot;string&quot;&gt;' '&lt;/span&gt; + &lt;span class=&quot;keyword&quot;&gt;this&lt;/span&gt;.line);
+    say :  &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(name)&lt;/span&gt; {&lt;/span&gt;
+        console.log(name + &lt;span class=&quot;string&quot;&gt;' '&lt;/span&gt; + &lt;span class=&quot;keyword&quot;&gt;this&lt;/span&gt;.line);
     }
 }
 
@@ -174,7 +174,7 @@ other(&lt;span class=&quot;string&quot;&gt;'someone needs to'&lt;/span&gt;);
     <item>
       <title>The Free Mac Tools I Use Daily</title>
       <link>http://iwaspromisedcookies.com/articles/free-tools-i-use/</link>
-      <pubDate>Sun, 23 Feb 2014 19:00:00 -0500</pubDate>
+      <pubDate>Mon, 24 Feb 2014 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">http://iwaspromisedcookies.com/articles/free-tools-i-use/</guid>
       <author></author>
       <description>&lt;p&gt;These are the free Mac desktop tools I use daily for tasks like drafting blogs to managing servers and building apps. &lt;/p&gt;
@@ -185,7 +185,7 @@ other(&lt;span class=&quot;string&quot;&gt;'someone needs to'&lt;/span&gt;);
 &lt;h2 id=&quot;iterm-2&quot;&gt;iTerm 2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.iterm2.com/&quot;&gt;iTerm 2&lt;/a&gt; is one of the first apps I install when I set up a new Mac. I love the split pane and that can go between tabs with command+arrow keys. The tab Expose helps me keep track of sessions. Growl keeps me updated with bells and issues. It’s really quite wonderful.&lt;/p&gt;
 &lt;h2 id=&quot;adium&quot;&gt;Adium&lt;/h2&gt;
-&lt;p&gt;I use &lt;a href=&quot;http://adium.im&quot;&gt;Adium&lt;/a&gt; for most of my chat needs (if it supported Skype and I didn’t have friends that only used Skype it would be ‘the one’). I can be connected to multiple chat servers (XMPP and Google Chat) and keep all the live chats open in a wonderful tabbed interface. By default it supports encryption, so I can chat away with my more paranoid friends.&lt;/p&gt;
+&lt;p&gt;I use &lt;a href=&quot;http://adium.im/&quot;&gt;Adium&lt;/a&gt; for most of my chat needs (if it supported Skype and I didn’t have friends that only used Skype it would be ‘the one’). I can be connected to multiple chat servers (XMPP and Google Chat) and keep all the live chats open in a wonderful tabbed interface. By default it supports encryption, so I can chat away with my more paranoid friends.&lt;/p&gt;
 &lt;h2 id=&quot;spf13-vim-and-macvim&quot;&gt;SPF13 Vim and MacVim&lt;/h2&gt;
 &lt;p&gt;Vim isn’t Mac centric, although, I do use &lt;a href=&quot;https://code.google.com/p/macvim/&quot;&gt;MacVim&lt;/a&gt; for the copying and pasting and overall gui goodness.&lt;/p&gt;
 &lt;p&gt;For a long time, I was configuring Vim on my own. I was updating &lt;code&gt;.vimrc&lt;/code&gt; and &lt;code&gt;.gvimrc&lt;/code&gt; files constantly, researching and installing plugins, trying to make it work for everything always. Then, one day, I decided to try out the curated and tested configuration that &lt;a href=&quot;http://vim.spf13.com/&quot;&gt;SPF13-Vim&lt;/a&gt; provides, created a &lt;code&gt;.vimrc.local&lt;/code&gt; and &lt;code&gt;.gvimrc.local&lt;/code&gt; and never looked back.&lt;/p&gt;
