@@ -1,19 +1,6 @@
-# Blog about the internet
+# iwaspromisedcookies
 
-This blog uses a slightly modified version of the default [wintersmith](https://github.com/jnordberg/wintersmith) template blog theme in the following ways:
+This is home to my random life stories that I tend to tell at parties and meetings and while driving and such.
 
-## Prism Syntax Highlighting
+The tech blog moved to [trailingwhitespace](https://github.com/SilentCog/trailingwhitespace.com).
 
-http://prismjs.com/index.html
-
-Added `.css` and `.js` files to the `layout.jade` template. Changed `pre` and `code` background color to `#272822`.
-
-# Contributing
-
-Make a branch, make changes, then create a pull request. Magic!
-
-```
-npm install -g wintersmith
-npm install
-wintersmith preview
-```
