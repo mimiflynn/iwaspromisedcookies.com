@@ -1,6 +1,6 @@
-# KD2MZG.com
+# iwaspromisedcookies.com
 
-Kilo Delta Two Mike Zulu Golf - Radio adventures
+Random life stories and curiosities.
 
 Created with [GatsbyJS](https://github.com/mimiflynn/gatsby)
 
