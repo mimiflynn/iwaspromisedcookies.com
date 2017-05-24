@@ -23,8 +23,8 @@ class BlogIndex extends React.Component {
         <Helmet
           title={config.blogTitle}
           meta={[
-            {"name": "description", "content": "KD2MZG"},
-            {"name": "keywords", "content": "blog, articles"},
+            {"name": "description", "content": "iwaspromisedcookies"},
+            {"name": "keywords", "content": "Random Pleasantries"},
           ]}
         />
         <Bio />

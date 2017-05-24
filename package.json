@@ -1,6 +1,6 @@
 {
-  "name": "KD2MZG",
-  "description": "Adventures in Ham Radio",
+  "name": "iwaspromisedcookies.com",
+  "description": "Random Pleasantries",
   "version": "1.0.0",
   "author": "Mimi Flynn",
   "dependencies": {
@@ -30,7 +30,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git@github.com:mimiflynn/KD2MZG.com.git"
+    "url": "git@github.com:mimiflynn/iwaspromisedcookies.com.git"
   },
   "scripts": {
     "dev": "gatsby develop",
