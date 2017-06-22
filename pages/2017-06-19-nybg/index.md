@@ -5,4 +5,3 @@ path: "/2017-06-19-storm/"
 ---
 
 ![Clouds](/2017-06-19-storm/animation-2017-06-19_17-57-40.gif)
-![Clouds](/2017-06-19-storm/animation-2017-06-19_18-08-42.gif)
