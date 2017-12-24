@@ -33,9 +33,10 @@
     "url": "git@github.com:mimiflynn/iwaspromisedcookies.com.git"
   },
   "scripts": {
+    "clean": "rm -rf docs",
     "dev": "gatsby develop",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "gatsby build"
+    "build": "gatsby build && mv public docs"
   }
 }
