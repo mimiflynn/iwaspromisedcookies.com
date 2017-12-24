@@ -37,6 +37,6 @@
     "dev": "gatsby develop",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "gatsby build && mv public docs"
+    "build": "gatsby build && mv public docs && cp CNAME docs/CNAME"
   }
 }
