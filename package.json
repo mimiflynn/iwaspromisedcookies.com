@@ -11,7 +11,7 @@
     "markdown-it-deflist": "^2.0.1",
     "markdown-it-footnote": "^3.0.1",
     "markdown-it-sub": "^1.0.0",
-    "moment": "^2.11.2",
+    "moment": "^2.20.1",
     "react-addons-shallow-compare": "^15.4.1",
     "react-dates": "^4.1.0",
     "react-headroom": "^2.1.5",
