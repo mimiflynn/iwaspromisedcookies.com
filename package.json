@@ -1,42 +1,13 @@
 {
-  "name": "iwaspromisedcookies.com",
-  "description": "Random Pleasantries",
-  "version": "1.0.0",
-  "author": "Mimi Flynn",
   "dependencies": {
-    "gatsby": "^0.12.36",
-    "lodash": "^4.17.2",
-    "markdown-it-abbr": "^1.0.4",
-    "markdown-it-attrs": "^0.8.0",
-    "markdown-it-deflist": "^2.0.1",
-    "markdown-it-footnote": "^3.0.1",
-    "markdown-it-sub": "^1.0.0",
     "moment": "^2.20.1",
-    "react-addons-shallow-compare": "^15.4.1",
-    "react-dates": "^4.1.0",
-    "react-headroom": "^2.1.5",
-    "react-helmet": "^3.2.2",
-    "react-responsive-grid": "^0.3.3",
-    "react-typography": "^0.15.0",
-    "toml-js": "0.0.8",
-    "typography": "^0.15.0",
-    "typography-theme-wordpress-2016": "^0.15.0",
-    "underscore.string": "^3.2.3"
+    "underscore": "1.4.x",
+    "typogr": "0.5.x"
   },
-  "keywords": [
-    "gatsby"
-  ],
-  "license": "MIT",
-  "main": "n/a",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:mimiflynn/iwaspromisedcookies.com.git"
-  },
+  "private": "true",
   "scripts": {
     "clean": "rm -rf docs",
-    "dev": "gatsby develop",
-    "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "gatsby build && mv public docs && cp CNAME docs/CNAME"
+    "dev": "wintersmith preview",
+    "build": "npm run clean && wintersmith build && mv build docs && cp CNAME docs/CNAME"
   }
 }
