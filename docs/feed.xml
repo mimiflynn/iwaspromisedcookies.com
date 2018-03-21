@@ -5,9 +5,18 @@
     <atom:link href="https://iwaspromisedcookies.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>https://iwaspromisedcookies.com</link>
     <description>curiosities</description>
-    <pubDate>Fri, 08 Dec 2017 03:35:46 -0500</pubDate>
+    <pubDate>Wed, 21 Mar 2018 06:07:21 -0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Nor'easter</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-03-21-ne/</link>
+      <pubDate>Wed, 21 Mar 2018 06:07:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-03-21-ne/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-03-21-ne/animation-2018-03-21_10-07-21.gif&quot; alt=&quot;Noreaster&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Morning Flowing Clouds</title>
       <link>https://iwaspromisedcookies.com/articles/2017-12-08-flow/</link>
