@@ -5,9 +5,37 @@
     <atom:link href="https://iwaspromisedcookies.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>https://iwaspromisedcookies.com</link>
     <description>curiosities</description>
-    <pubDate>Wed, 21 Mar 2018 06:07:21 -0400</pubDate>
+    <pubDate>Sat, 05 May 2018 06:07:21 -0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Spring Sunrise</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-05-05-sunrise/</link>
+      <pubDate>Sat, 05 May 2018 06:07:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-05-sunrise/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-05-sunrise/animation-2018-05-05_06-01-48.gif&quot; alt=&quot;Spring Sunrise&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Springtime Finally</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-05-04-spring/</link>
+      <pubDate>Fri, 04 May 2018 06:07:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-04-spring/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-04-spring/animation-2018-05-04_06-12-31.gif&quot; alt=&quot;Springtime Sunrise&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/2018-05-04-spring/animation-2018-05-04_13-27-31.gif&quot; alt=&quot;Springtime Fireworks&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Night Storm</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-05-03-night-storm/</link>
+      <pubDate>Thu, 03 May 2018 06:07:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-03-night-storm/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-03-night-storm/animation-2018-05-03_20-21-26.gif&quot; alt=&quot;Night Storm&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Nor'easter</title>
       <link>https://iwaspromisedcookies.com/articles/2018-03-21-ne/</link>
