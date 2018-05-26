@@ -5,9 +5,29 @@
     <atom:link href="https://iwaspromisedcookies.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>https://iwaspromisedcookies.com</link>
     <description>curiosities</description>
-    <pubDate>Sat, 05 May 2018 06:07:21 -0400</pubDate>
+    <pubDate>Wed, 23 May 2018 06:07:21 -0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Morning Fog</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-05-23-fog/</link>
+      <pubDate>Wed, 23 May 2018 06:07:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-23-fog/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-23-fog/animation-2018-05-23_06-14-03.gif&quot; alt=&quot;Morning Fog&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Sunny Morning to Rainy Evening</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-05-15-rains/</link>
+      <pubDate>Tue, 15 May 2018 06:07:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-15-rains/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-15-rains/animation-2018-05-15_07-59-52.gif&quot; alt=&quot;Sunny Morning&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/2018-05-15-rains/animation-2018-05-15_17-11-01.gif&quot; alt=&quot;Clouds Moving In at 5:11 PM&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/2018-05-15-rains/animation-2018-05-15_17-31-27.gif&quot; alt=&quot;Rain at 5:31 PM&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Spring Sunrise</title>
       <link>https://iwaspromisedcookies.com/articles/2018-05-05-sunrise/</link>
