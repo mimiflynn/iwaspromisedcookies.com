@@ -5,9 +5,27 @@
     <atom:link href="https://iwaspromisedcookies.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>https://iwaspromisedcookies.com</link>
     <description>curiosities</description>
-    <pubDate>Wed, 06 Jun 2018 16:30:21 -0400</pubDate>
+    <pubDate>Fri, 06 Jul 2018 16:30:21 -0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Summer Sunset</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-07-06-sunset/</link>
+      <pubDate>Fri, 06 Jul 2018 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-07-06-sunset/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-07-06-sunset/animation-2018-07-06_20-40-03.gif&quot; alt=&quot;Sunset cooling off the city&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Independence Day</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-07-04-independence/</link>
+      <pubDate>Wed, 04 Jul 2018 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-07-04-independence/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-07-04-independence/animation-2018-07-04_21-35-02.gif&quot; alt=&quot;Fireworks&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Alto Cumulus</title>
       <link>https://iwaspromisedcookies.com/articles/2018-06-06-alto/</link>
@@ -98,21 +116,21 @@
 </description>
     </item>
     <item>
-      <title>Cloud Lifecycle</title>
-      <link>https://iwaspromisedcookies.com/articles/2018-01-05-cloud-lifecycle/</link>
-      <pubDate>Fri, 05 Jan 2018 05:07:21 -0500</pubDate>
-      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-01-05-cloud-lifecycle/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-01-05-cloud-lifecycle/animation-2018-01-05_10-01-25.gif&quot; alt=&quot;Cloud Lifecycle&quot;&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Cold Morning</title>
       <link>https://iwaspromisedcookies.com/articles/2018-01-07-cold-morn/</link>
       <pubDate>Fri, 05 Jan 2018 05:07:21 -0500</pubDate>
       <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-01-07-cold-morn/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-01-07-cold-morn/animation-2018-01-07_07-33-43.gif&quot; alt=&quot;Cold Morning&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Cloud Lifecycle</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-01-05-cloud-lifecycle/</link>
+      <pubDate>Fri, 05 Jan 2018 05:07:21 -0500</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-01-05-cloud-lifecycle/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-01-05-cloud-lifecycle/animation-2018-01-05_10-01-25.gif&quot; alt=&quot;Cloud Lifecycle&quot;&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
