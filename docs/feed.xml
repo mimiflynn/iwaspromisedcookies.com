@@ -1,48 +1,324 @@
-<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iwaspromisedcookies</title><atom:link href="https://iwaspromisedcookies.com/feed.xml" rel="self" type="application/rss+xml"></atom:link><link>https://iwaspromisedcookies.com</link><description>curiosities</description><pubDate>Tue, 20 Nov 2018 15:30:21 -0500</pubDate><generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator><language>en</language><item><title>Big Puffy Clouds</title><link>https://iwaspromisedcookies.com/articles/2018-11-20-big-puffy/</link><pubDate>Tue, 20 Nov 2018 15:30:21 -0500</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-11-20-big-puffy/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-11-20-big-puffy/animation-2018-11-20_14-30-09.gif&quot; alt=&quot;quintessential cloud&amp;#39;s cloud&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Noreaster</title><link>https://iwaspromisedcookies.com/articles/2018-10-27-noreaster/</link><pubDate>Sat, 27 Oct 2018 16:30:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-10-27-noreaster/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-10-27-noreaster/animation-2018-10-27_13-41-10.gif&quot; alt=&quot;after the rain&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Clearing Fog</title><link>https://iwaspromisedcookies.com/articles/2018-10-12-clearing-fog/</link><pubDate>Fri, 12 Oct 2018 16:30:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-10-12-clearing-fog/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-10-12-clearing-fog/animation-2018-10-12_07-20-56.gif&quot; alt=&quot;after the rain&quot;&gt;
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iwaspromisedcookies</title>
+    <atom:link href="https://iwaspromisedcookies.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>https://iwaspromisedcookies.com</link>
+    <description>curiosities</description>
+    <pubDate>Sun, 31 Mar 2019 16:30:21 -0400</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Cruising into Spring</title>
+      <link>https://iwaspromisedcookies.com/articles/2019-03-31-cruising/</link>
+      <pubDate>Sun, 31 Mar 2019 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2019-03-31-cruising/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2019-03-31-cruising/animation-2019-03-31_15-28-12.gif&quot; alt=&quot;Hudson cruising&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Big Puffy Clouds</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-11-20-big-puffy/</link>
+      <pubDate>Tue, 20 Nov 2018 15:30:21 -0500</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-11-20-big-puffy/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-11-20-big-puffy/animation-2018-11-20_14-30-09.gif&quot; alt=&quot;quintessential cloud&amp;#39;s cloud&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Noreaster</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-10-27-noreaster/</link>
+      <pubDate>Sat, 27 Oct 2018 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-10-27-noreaster/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-10-27-noreaster/animation-2018-10-27_13-41-10.gif&quot; alt=&quot;after the rain&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Clearing Fog</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-10-12-clearing-fog/</link>
+      <pubDate>Fri, 12 Oct 2018 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-10-12-clearing-fog/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-10-12-clearing-fog/animation-2018-10-12_07-20-56.gif&quot; alt=&quot;after the rain&quot;&gt;
 &lt;img src=&quot;/articles/2018-10-12-clearing-fog/animation-2018-10-12_07-52-39.gif&quot; alt=&quot;the fog clears&quot;&gt;
 &lt;img src=&quot;/articles/2018-10-12-clearing-fog/animation-2018-10-12_08-55-20.gif&quot; alt=&quot;and the day begins&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Almost Fall</title><link>https://iwaspromisedcookies.com/articles/2018-10-04-sunrise/</link><pubDate>Thu, 04 Oct 2018 16:30:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-10-04-sunrise/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-10-04-sunrise/animation-2018-10-04_06-39-52.gif&quot; alt=&quot;A little windy&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Clearing Rain</title><link>https://iwaspromisedcookies.com/articles/2018-08-22-clearing-rain/</link><pubDate>Wed, 22  Aug 2018 16:30:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-08-22-clearing-rain/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-08-22-clearing-rain/animation-2018-08-22_06-57-10.gif&quot; alt=&quot;Good Morning&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Cloudy Sunset</title><link>https://iwaspromisedcookies.com/articles/2018-07-24-sunset/</link><pubDate>Tue, 24 Jul 2018 16:30:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-07-24-sunset/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-07-24-sunset/animation-2018-07-24_20-48-03.gif&quot; alt=&quot;Cloudy Sunset&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Consecutive Layers</title><link>https://iwaspromisedcookies.com/articles/2018-07-26-consecutive-layers/</link><pubDate>Tue, 24 Jul 2018 16:30:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-07-26-consecutive-layers/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-07-26-consecutive-layers/animation-2018-07-26_06-07-30.gif&quot; alt=&quot;Wait for it&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Almost Fall</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-10-04-sunrise/</link>
+      <pubDate>Thu, 04 Oct 2018 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-10-04-sunrise/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-10-04-sunrise/animation-2018-10-04_06-39-52.gif&quot; alt=&quot;A little windy&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Clearing Rain</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-08-22-clearing-rain/</link>
+      <pubDate>Wed, 22  Aug 2018 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-08-22-clearing-rain/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-08-22-clearing-rain/animation-2018-08-22_06-57-10.gif&quot; alt=&quot;Good Morning&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Cloudy Sunset</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-07-24-sunset/</link>
+      <pubDate>Tue, 24 Jul 2018 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-07-24-sunset/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-07-24-sunset/animation-2018-07-24_20-48-03.gif&quot; alt=&quot;Cloudy Sunset&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Consecutive Layers</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-07-26-consecutive-layers/</link>
+      <pubDate>Tue, 24 Jul 2018 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-07-26-consecutive-layers/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-07-26-consecutive-layers/animation-2018-07-26_06-07-30.gif&quot; alt=&quot;Wait for it&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2018-07-26-consecutive-layers/animation-2018-07-26_06-20-05.gif&quot; alt=&quot;Wait for it&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2018-07-26-consecutive-layers/animation-2018-07-26_06-29-08.gif&quot; alt=&quot;Wait for it&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2018-07-26-consecutive-layers/animation-2018-07-26_06-40-08.gif&quot; alt=&quot;Ooooo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2018-07-26-consecutive-layers/animation-2018-07-26_06-55-45.gif&quot; alt=&quot;ahhhhh&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Fresh Focus</title><link>https://iwaspromisedcookies.com/articles/2018-07-22-newly-focused/</link><pubDate>Sun, 22 Jul 2018 16:30:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-07-22-newly-focused/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-07-22-newly-focused/animation-2018-07-22_11-45-51.gif&quot; alt=&quot;Finally Freshly Focused&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Summer Sunset</title><link>https://iwaspromisedcookies.com/articles/2018-07-06-sunset/</link><pubDate>Fri, 06 Jul 2018 16:30:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-07-06-sunset/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-07-06-sunset/animation-2018-07-06_20-40-03.gif&quot; alt=&quot;Sunset cooling off the city&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Independence Day</title><link>https://iwaspromisedcookies.com/articles/2018-07-04-independence/</link><pubDate>Wed, 04 Jul 2018 16:30:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-07-04-independence/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-07-04-independence/animation-2018-07-04_21-35-02.gif&quot; alt=&quot;Fireworks&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Alto Cumulus</title><link>https://iwaspromisedcookies.com/articles/2018-06-06-alto/</link><pubDate>Wed, 06 Jun 2018 16:30:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-06-06-alto/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-06-06-alto/animation-2018-06-06_07-03-49.gif&quot; alt=&quot;Floating about and relaxing&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Long Sunset</title><link>https://iwaspromisedcookies.com/articles/2018-06-04-long-sunset/</link><pubDate>Mon, 04 Jun 2018 16:30:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-06-04-long-sunset/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-06-04-long-sunset/animation-2018-06-04_19-47-31.gif&quot; alt=&quot;Clearing Clouds&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Fresh Focus</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-07-22-newly-focused/</link>
+      <pubDate>Sun, 22 Jul 2018 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-07-22-newly-focused/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-07-22-newly-focused/animation-2018-07-22_11-45-51.gif&quot; alt=&quot;Finally Freshly Focused&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Summer Sunset</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-07-06-sunset/</link>
+      <pubDate>Fri, 06 Jul 2018 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-07-06-sunset/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-07-06-sunset/animation-2018-07-06_20-40-03.gif&quot; alt=&quot;Sunset cooling off the city&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Independence Day</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-07-04-independence/</link>
+      <pubDate>Wed, 04 Jul 2018 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-07-04-independence/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-07-04-independence/animation-2018-07-04_21-35-02.gif&quot; alt=&quot;Fireworks&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Alto Cumulus</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-06-06-alto/</link>
+      <pubDate>Wed, 06 Jun 2018 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-06-06-alto/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-06-06-alto/animation-2018-06-06_07-03-49.gif&quot; alt=&quot;Floating about and relaxing&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Long Sunset</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-06-04-long-sunset/</link>
+      <pubDate>Mon, 04 Jun 2018 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-06-04-long-sunset/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-06-04-long-sunset/animation-2018-06-04_19-47-31.gif&quot; alt=&quot;Clearing Clouds&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2018-06-04-long-sunset/animation-2018-06-04_19-53-33.gif&quot; alt=&quot;Clearing Clouds&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2018-06-04-long-sunset/animation-2018-06-04_20-00-36.gif&quot; alt=&quot;Clearing Clouds&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2018-06-04-long-sunset/animation-2018-06-04_20-08-27.gif&quot; alt=&quot;Clearing Clouds&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2018-06-04-long-sunset/animation-2018-06-04_20-14-09.gif&quot; alt=&quot;Clearing Clouds&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Morning Fog</title><link>https://iwaspromisedcookies.com/articles/2018-05-23-fog/</link><pubDate>Wed, 23 May 2018 06:07:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-23-fog/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-23-fog/animation-2018-05-23_06-14-03.gif&quot; alt=&quot;Morning Fog&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Sunny Morning to Rainy Evening</title><link>https://iwaspromisedcookies.com/articles/2018-05-15-rains/</link><pubDate>Tue, 15 May 2018 06:07:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-15-rains/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-15-rains/animation-2018-05-15_07-59-52.gif&quot; alt=&quot;Sunny Morning&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Morning Fog</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-05-23-fog/</link>
+      <pubDate>Wed, 23 May 2018 06:07:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-23-fog/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-23-fog/animation-2018-05-23_06-14-03.gif&quot; alt=&quot;Morning Fog&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Sunny Morning to Rainy Evening</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-05-15-rains/</link>
+      <pubDate>Tue, 15 May 2018 06:07:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-15-rains/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-15-rains/animation-2018-05-15_07-59-52.gif&quot; alt=&quot;Sunny Morning&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2018-05-15-rains/animation-2018-05-15_17-11-01.gif&quot; alt=&quot;Clouds Moving In at 5:11 PM&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2018-05-15-rains/animation-2018-05-15_17-31-27.gif&quot; alt=&quot;Rain at 5:31 PM&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Spring Sunrise</title><link>https://iwaspromisedcookies.com/articles/2018-05-05-sunrise/</link><pubDate>Sat, 05 May 2018 06:07:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-05-sunrise/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-05-sunrise/animation-2018-05-05_06-01-48.gif&quot; alt=&quot;Spring Sunrise&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Springtime Finally</title><link>https://iwaspromisedcookies.com/articles/2018-05-04-spring/</link><pubDate>Fri, 04 May 2018 06:07:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-04-spring/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-04-spring/animation-2018-05-04_06-12-31.gif&quot; alt=&quot;Springtime Sunrise&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Spring Sunrise</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-05-05-sunrise/</link>
+      <pubDate>Sat, 05 May 2018 06:07:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-05-sunrise/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-05-sunrise/animation-2018-05-05_06-01-48.gif&quot; alt=&quot;Spring Sunrise&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Springtime Finally</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-05-04-spring/</link>
+      <pubDate>Fri, 04 May 2018 06:07:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-04-spring/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-04-spring/animation-2018-05-04_06-12-31.gif&quot; alt=&quot;Springtime Sunrise&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2018-05-04-spring/animation-2018-05-04_13-27-31.gif&quot; alt=&quot;Springtime Fireworks&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Night Storm</title><link>https://iwaspromisedcookies.com/articles/2018-05-03-night-storm/</link><pubDate>Thu, 03 May 2018 06:07:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-03-night-storm/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-03-night-storm/animation-2018-05-03_20-21-26.gif&quot; alt=&quot;Night Storm&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Nor'easter</title><link>https://iwaspromisedcookies.com/articles/2018-03-21-ne/</link><pubDate>Wed, 21 Mar 2018 06:07:21 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-03-21-ne/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-03-21-ne/animation-2018-03-21_10-07-21.gif&quot; alt=&quot;Noreaster&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Stormy Morning</title><link>https://iwaspromisedcookies.com/articles/2018-02-05-stormy-morning/</link><pubDate>Mon, 05 Feb 2018 05:07:21 -0500</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-02-05-stormy-morning/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-02-05-stormy-morning/animation-2018-02-05_06-46-58.gif&quot; alt=&quot;Stormy Sunrise&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Night Storm</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-05-03-night-storm/</link>
+      <pubDate>Thu, 03 May 2018 06:07:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-05-03-night-storm/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-05-03-night-storm/animation-2018-05-03_20-21-26.gif&quot; alt=&quot;Night Storm&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Nor'easter</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-03-21-ne/</link>
+      <pubDate>Wed, 21 Mar 2018 06:07:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-03-21-ne/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-03-21-ne/animation-2018-03-21_10-07-21.gif&quot; alt=&quot;Noreaster&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Stormy Morning</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-02-05-stormy-morning/</link>
+      <pubDate>Mon, 05 Feb 2018 05:07:21 -0500</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-02-05-stormy-morning/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-02-05-stormy-morning/animation-2018-02-05_06-46-58.gif&quot; alt=&quot;Stormy Sunrise&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2018-02-05-stormy-morning/animation-2018-02-05_07-14-14.gif&quot; alt=&quot;Sunrise&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Cloud Lifecycle</title><link>https://iwaspromisedcookies.com/articles/2018-01-05-cloud-lifecycle/</link><pubDate>Fri, 05 Jan 2018 05:07:21 -0500</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-01-05-cloud-lifecycle/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-01-05-cloud-lifecycle/animation-2018-01-05_10-01-25.gif&quot; alt=&quot;Cloud Lifecycle&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Cold Morning</title><link>https://iwaspromisedcookies.com/articles/2018-01-07-cold-morn/</link><pubDate>Fri, 05 Jan 2018 05:07:21 -0500</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-01-07-cold-morn/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-01-07-cold-morn/animation-2018-01-07_07-33-43.gif&quot; alt=&quot;Cold Morning&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Snow</title><link>https://iwaspromisedcookies.com/articles/2018-01-04-snow/</link><pubDate>Thu, 04 Jan 2018 05:07:21 -0500</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-01-04-snow/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-01-04-snow/animation-2018-01-04_15-08-25.gif&quot; alt=&quot;Snow&quot;&gt;&lt;/p&gt;
-</description></item><item><title>New Year's Morning</title><link>https://iwaspromisedcookies.com/articles/2018-01-01-new-years-morn/</link><pubDate>Mon, 01 Jan 2018 05:07:21 -0500</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-01-01-new-years-morn/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2018-01-01-new-years-morn/animation-2018-01-01_06-48-49.gif&quot; alt=&quot;New Year&amp;#39;s Morning&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Morning Flowing Clouds</title><link>https://iwaspromisedcookies.com/articles/2017-12-08-flow/</link><pubDate>Fri, 08 Dec 2017 03:35:46 -0500</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-12-08-flow/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2017-12-08-flow/animation-2017-12-08_07-28-25.gif&quot; alt=&quot;Flow&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Summer Evening Storm</title><link>https://iwaspromisedcookies.com/articles/2017-07-29-whispy/</link><pubDate>Sat, 29 Jul 2017 04:35:46 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-07-29-whispy/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2017-07-29-whispy/animation-2017-07-29_08-35-46.gif&quot; alt=&quot;Whispy&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Fireworks NYC</title><link>https://iwaspromisedcookies.com/articles/2017-07-04/</link><pubDate>Tue, 04 Jul 2017 17:35:30 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-07-04/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2017-07-04/animation-2017-07-04_21-35-30.gif&quot; alt=&quot;Fireworks&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Summer Evening Storm</title><link>https://iwaspromisedcookies.com/articles/2017-07-01-summer-storm/</link><pubDate>Sat, 01 Jul 2017 15:04:24 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-07-01-summer-storm/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2017-07-01-summer-storm/animation-2017-07-01_19-04-24.gif&quot; alt=&quot;Stormy&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Clouds NYC</title><link>https://iwaspromisedcookies.com/articles/2017-06-19-nybg/</link><pubDate>Mon, 19 Jun 2017 03:47:56 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-06-19-nybg/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2017-06-19-nybg/animation-2017-06-19_17-57-40.gif&quot; alt=&quot;Clouds&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Stormy Afternoon</title><link>https://iwaspromisedcookies.com/articles/2017-05-14-storm/</link><pubDate>Sun, 14 May 2017 12:49:20 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-05-14-storm/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2017-05-14-storm/animation-2017-05-14_16-49-20.gif&quot; alt=&quot;Storm 1&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Cloud Lifecycle</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-01-05-cloud-lifecycle/</link>
+      <pubDate>Fri, 05 Jan 2018 05:07:21 -0500</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-01-05-cloud-lifecycle/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-01-05-cloud-lifecycle/animation-2018-01-05_10-01-25.gif&quot; alt=&quot;Cloud Lifecycle&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Cold Morning</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-01-07-cold-morn/</link>
+      <pubDate>Fri, 05 Jan 2018 05:07:21 -0500</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-01-07-cold-morn/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-01-07-cold-morn/animation-2018-01-07_07-33-43.gif&quot; alt=&quot;Cold Morning&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Snow</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-01-04-snow/</link>
+      <pubDate>Thu, 04 Jan 2018 05:07:21 -0500</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-01-04-snow/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-01-04-snow/animation-2018-01-04_15-08-25.gif&quot; alt=&quot;Snow&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>New Year's Morning</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-01-01-new-years-morn/</link>
+      <pubDate>Mon, 01 Jan 2018 05:07:21 -0500</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-01-01-new-years-morn/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-01-01-new-years-morn/animation-2018-01-01_06-48-49.gif&quot; alt=&quot;New Year&amp;#39;s Morning&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Morning Flowing Clouds</title>
+      <link>https://iwaspromisedcookies.com/articles/2017-12-08-flow/</link>
+      <pubDate>Fri, 08 Dec 2017 03:35:46 -0500</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-12-08-flow/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2017-12-08-flow/animation-2017-12-08_07-28-25.gif&quot; alt=&quot;Flow&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Summer Evening Storm</title>
+      <link>https://iwaspromisedcookies.com/articles/2017-07-29-whispy/</link>
+      <pubDate>Sat, 29 Jul 2017 04:35:46 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-07-29-whispy/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2017-07-29-whispy/animation-2017-07-29_08-35-46.gif&quot; alt=&quot;Whispy&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Fireworks NYC</title>
+      <link>https://iwaspromisedcookies.com/articles/2017-07-04/</link>
+      <pubDate>Tue, 04 Jul 2017 17:35:30 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-07-04/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2017-07-04/animation-2017-07-04_21-35-30.gif&quot; alt=&quot;Fireworks&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Summer Evening Storm</title>
+      <link>https://iwaspromisedcookies.com/articles/2017-07-01-summer-storm/</link>
+      <pubDate>Sat, 01 Jul 2017 15:04:24 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-07-01-summer-storm/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2017-07-01-summer-storm/animation-2017-07-01_19-04-24.gif&quot; alt=&quot;Stormy&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Clouds NYC</title>
+      <link>https://iwaspromisedcookies.com/articles/2017-06-19-nybg/</link>
+      <pubDate>Mon, 19 Jun 2017 03:47:56 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-06-19-nybg/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2017-06-19-nybg/animation-2017-06-19_17-57-40.gif&quot; alt=&quot;Clouds&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Stormy Afternoon</title>
+      <link>https://iwaspromisedcookies.com/articles/2017-05-14-storm/</link>
+      <pubDate>Sun, 14 May 2017 12:49:20 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-05-14-storm/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2017-05-14-storm/animation-2017-05-14_16-49-20.gif&quot; alt=&quot;Storm 1&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2017-05-14-storm/animation-2017-05-14_17-01-53.gif&quot; alt=&quot;Storm 2&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Spring Storm in the Morning</title><link>https://iwaspromisedcookies.com/articles/2017-05-02-spring-storm/</link><pubDate>Tue, 02 May 2017 03:47:27 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-05-02-spring-storm/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2017-05-02-spring-storm/animation-2017-05-02_07-51-33.gif&quot; alt=&quot;Spring Storm 2&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Sunrise NYbG</title><link>https://iwaspromisedcookies.com/articles/2017-04-24-nybg/</link><pubDate>Mon, 24 Apr 2017 03:45:56 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-04-24-nybg/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2017-04-24-nybg/animation-2017-04-24_07-45-56.gif&quot; alt=&quot;Sunrise&quot;&gt;&lt;/p&gt;
-</description></item><item><title>Clouds NYC</title><link>https://iwaspromisedcookies.com/articles/2017-04-19-nybg/</link><pubDate>Wed, 19 Apr 2017 03:47:56 -0400</pubDate><guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-04-19-nybg/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;/articles/2017-04-19-nybg/animation-2017-04-19_07-47-01.gif&quot; alt=&quot;Clouds&quot;&gt;&lt;/p&gt;
-</description></item></channel></rss>
+</description>
+    </item>
+    <item>
+      <title>Spring Storm in the Morning</title>
+      <link>https://iwaspromisedcookies.com/articles/2017-05-02-spring-storm/</link>
+      <pubDate>Tue, 02 May 2017 03:47:27 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-05-02-spring-storm/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2017-05-02-spring-storm/animation-2017-05-02_07-51-33.gif&quot; alt=&quot;Spring Storm 2&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Sunrise NYbG</title>
+      <link>https://iwaspromisedcookies.com/articles/2017-04-24-nybg/</link>
+      <pubDate>Mon, 24 Apr 2017 03:45:56 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-04-24-nybg/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2017-04-24-nybg/animation-2017-04-24_07-45-56.gif&quot; alt=&quot;Sunrise&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Clouds NYC</title>
+      <link>https://iwaspromisedcookies.com/articles/2017-04-19-nybg/</link>
+      <pubDate>Wed, 19 Apr 2017 03:47:56 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2017-04-19-nybg/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2017-04-19-nybg/animation-2017-04-19_07-47-01.gif&quot; alt=&quot;Clouds&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
