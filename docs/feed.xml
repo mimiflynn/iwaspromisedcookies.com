@@ -5,9 +5,18 @@
     <atom:link href="https://iwaspromisedcookies.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>https://iwaspromisedcookies.com</link>
     <description>curiosities</description>
-    <pubDate>Sun, 31 Mar 2019 16:30:21 -0400</pubDate>
+    <pubDate>Sat, 06 Apr 2019 16:30:21 -0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Foggy Spring Morning</title>
+      <link>https://iwaspromisedcookies.com/articles/2019-04-06-fog/</link>
+      <pubDate>Sat, 06 Apr 2019 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2019-04-06-fog/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2019-04-06-fog/animation-2019-04-06_08-55-34.gif&quot; alt=&quot;Foggy Spring Morning&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Cruising into Spring</title>
       <link>https://iwaspromisedcookies.com/articles/2019-03-31-cruising/</link>
