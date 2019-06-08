@@ -5,9 +5,19 @@
     <atom:link href="https://iwaspromisedcookies.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>https://iwaspromisedcookies.com</link>
     <description>curiosities</description>
-    <pubDate>Sat, 06 Apr 2019 16:30:21 -0400</pubDate>
+    <pubDate>Sun, 02 Jun 2019 16:30:21 -0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Summer Rain</title>
+      <link>https://iwaspromisedcookies.com/articles/2019-06-02-rains/</link>
+      <pubDate>Sun, 02 Jun 2019 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2019-06-02-rains/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2019-06-02-rains/animation-2019-06-02_17-35-24.gif&quot; alt=&quot;Rain over there&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/2019-06-02-rains/animation-2019-06-02_17-45-17.gif&quot; alt=&quot;Rain over here&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Foggy Spring Morning</title>
       <link>https://iwaspromisedcookies.com/articles/2019-04-06-fog/</link>
