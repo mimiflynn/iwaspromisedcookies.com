@@ -5,9 +5,18 @@
     <atom:link href="https://iwaspromisedcookies.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>https://iwaspromisedcookies.com</link>
     <description>curiosities</description>
-    <pubDate>Thu, 08  Aug 2019 16:30:21 -0400</pubDate>
+    <pubDate>Fri, 09  Aug 2019 16:30:21 -0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Shower</title>
+      <link>https://iwaspromisedcookies.com/articles/2019-08-09-shower/</link>
+      <pubDate>Fri, 09  Aug 2019 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2019-08-09-shower/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2019-08-09-shower/animation-2019-08-09_16-23-37.gif&quot; alt=&quot;Shower&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Thunderstorm</title>
       <link>https://iwaspromisedcookies.com/articles/2019-08-08-thunderstorm-sunset/</link>
@@ -122,15 +131,6 @@
 </description>
     </item>
     <item>
-      <title>Cloudy Sunset</title>
-      <link>https://iwaspromisedcookies.com/articles/2018-07-24-sunset/</link>
-      <pubDate>Tue, 24 Jul 2018 16:30:21 -0400</pubDate>
-      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-07-24-sunset/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-07-24-sunset/animation-2018-07-24_20-48-03.gif&quot; alt=&quot;Cloudy Sunset&quot;&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Consecutive Layers</title>
       <link>https://iwaspromisedcookies.com/articles/2018-07-26-consecutive-layers/</link>
       <pubDate>Tue, 24 Jul 2018 16:30:21 -0400</pubDate>
@@ -141,6 +141,15 @@
 &lt;p&gt;&lt;img src=&quot;/articles/2018-07-26-consecutive-layers/animation-2018-07-26_06-29-08.gif&quot; alt=&quot;Wait for it&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2018-07-26-consecutive-layers/animation-2018-07-26_06-40-08.gif&quot; alt=&quot;Ooooo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/2018-07-26-consecutive-layers/animation-2018-07-26_06-55-45.gif&quot; alt=&quot;ahhhhh&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Cloudy Sunset</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-07-24-sunset/</link>
+      <pubDate>Tue, 24 Jul 2018 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-07-24-sunset/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-07-24-sunset/animation-2018-07-24_20-48-03.gif&quot; alt=&quot;Cloudy Sunset&quot;&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -260,21 +269,21 @@
 </description>
     </item>
     <item>
-      <title>Cloud Lifecycle</title>
-      <link>https://iwaspromisedcookies.com/articles/2018-01-05-cloud-lifecycle/</link>
-      <pubDate>Fri, 05 Jan 2018 05:07:21 -0500</pubDate>
-      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-01-05-cloud-lifecycle/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-01-05-cloud-lifecycle/animation-2018-01-05_10-01-25.gif&quot; alt=&quot;Cloud Lifecycle&quot;&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Cold Morning</title>
       <link>https://iwaspromisedcookies.com/articles/2018-01-07-cold-morn/</link>
       <pubDate>Fri, 05 Jan 2018 05:07:21 -0500</pubDate>
       <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-01-07-cold-morn/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-01-07-cold-morn/animation-2018-01-07_07-33-43.gif&quot; alt=&quot;Cold Morning&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Cloud Lifecycle</title>
+      <link>https://iwaspromisedcookies.com/articles/2018-01-05-cloud-lifecycle/</link>
+      <pubDate>Fri, 05 Jan 2018 05:07:21 -0500</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2018-01-05-cloud-lifecycle/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2018-01-05-cloud-lifecycle/animation-2018-01-05_10-01-25.gif&quot; alt=&quot;Cloud Lifecycle&quot;&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
