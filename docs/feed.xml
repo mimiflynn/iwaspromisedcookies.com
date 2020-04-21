@@ -5,9 +5,18 @@
     <atom:link href="https://iwaspromisedcookies.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>https://iwaspromisedcookies.com</link>
     <description>curiosities</description>
-    <pubDate>Sat, 18 Apr 2020 18:30:21 -0400</pubDate>
+    <pubDate>Tue, 21 Apr 2020 16:30:21 -0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Clearing Storm</title>
+      <link>https://iwaspromisedcookies.com/articles/2020-04-21-clearing-storm/</link>
+      <pubDate>Tue, 21 Apr 2020 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2020-04-21-clearing-storm/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2020-04-21-clearing-storm/animation-2020-04-21_16-29-36-2.gif&quot; alt=&quot;Clearing Storm&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Nighttime in the days of COVID-19</title>
       <link>https://iwaspromisedcookies.com/articles/2020-04-18-night/</link>
