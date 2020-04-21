@@ -5,9 +5,18 @@
     <atom:link href="https://iwaspromisedcookies.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>https://iwaspromisedcookies.com</link>
     <description>curiosities</description>
-    <pubDate>Sat, 18 Apr 2020 16:30:21 -0400</pubDate>
+    <pubDate>Sat, 18 Apr 2020 18:30:21 -0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Nighttime in the days of COVID-19</title>
+      <link>https://iwaspromisedcookies.com/articles/2020-04-18-night/</link>
+      <pubDate>Sat, 18 Apr 2020 18:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2020-04-18-night/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2020-04-18-night/animation-2020-04-18_21-43-34.gif&quot; alt=&quot;Nighttime&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Sunset in the days of COVID-19</title>
       <link>https://iwaspromisedcookies.com/articles/2020-04-18-sunset/</link>
@@ -18,12 +27,21 @@
 </description>
     </item>
     <item>
-      <title>Nighttime in the days of COVID-19</title>
-      <link>https://iwaspromisedcookies.com/articles/2020-04-18-night/</link>
-      <pubDate>Sat, 18 Apr 2020 16:30:21 -0400</pubDate>
-      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2020-04-18-night/</guid>
+      <title>Clearing Sky</title>
+      <link>https://iwaspromisedcookies.com/articles/2020-04-16-clearing/</link>
+      <pubDate>Thu, 16 Apr 2020 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2020-04-16-clearing/</guid>
       <author></author>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/2020-04-18-night/animation-2020-04-18_21-43-34.gif&quot; alt=&quot;Nighttime&quot;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2020-04-16-clearing/animation-2020-04-16_19-19-16.gif&quot; alt=&quot;Clearing Sky&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Cloudshadows</title>
+      <link>https://iwaspromisedcookies.com/articles/2020-04-15-cloudshadows/</link>
+      <pubDate>Wed, 15 Apr 2020 16:30:21 -0400</pubDate>
+      <guid isPermaLink="true">https://iwaspromisedcookies.com/articles/2020-04-15-cloudshadows/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/2020-04-15-cloudshadows/animation-2020-04-15_13-57-20.gif&quot; alt=&quot;Cloudshadows&quot;&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
