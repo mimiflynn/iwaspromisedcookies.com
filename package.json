@@ -7,7 +7,7 @@
   "private": "true",
   "scripts": {
     "clean": "rm -rf docs",
-    "dev": "wintersmith preview",
+    "start": "wintersmith preview",
     "build": "npm run clean && wintersmith build && mv build docs && cp CNAME docs/CNAME"
   }
 }
